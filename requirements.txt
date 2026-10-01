@@ -1,0 +1,21 @@
+# Core
+numpy
+opencv-python
+scikit-image
+scipy
+matplotlib
+pandas
+scikit-learn
+Pillow
+
+# 01_brain_extraction/pytorch
+torch
+torchvision
+
+# 01_brain_extraction/keras, 04_model_training
+tensorflow
+h5py
+
+# notebooks
+jupyter
+tqdm
